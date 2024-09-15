@@ -1,5 +1,8 @@
 # Firebase generated artifacts
 .firebase
+# Local configuration file (firebase apiKey, projectId, etc)
+lib/firebase_options.dart
+firebase.json
 
 # Miscellaneous
 *.class
