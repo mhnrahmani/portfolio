@@ -1,3 +1,6 @@
+# Firebase generated artifacts
+.firebase
+
 # Miscellaneous
 *.class
 *.log
