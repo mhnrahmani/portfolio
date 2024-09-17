@@ -1,3 +1,6 @@
+# vscode workspace settings
+.vscode
+
 # Firebase generated artifacts
 .firebase
 # Local configuration file (firebase apiKey, projectId, etc)
